@@ -46,7 +46,7 @@ def aggrid_interactive_table(df: pd.DataFrame):
 with header:
     st.title(":bar_chart: APIIS Quality Metrics Dashboard")
 with st.sidebar:
-    selected = option_menu( menu_title = "Navigation", options = ["Home","Individual Case Metrics",'CSAT Response Rate', 'Program Level Feedback Report', 'Individual Qualtrics Report'],icons =["house","bar-chart",':anchor:',':hash:', 'arrow-down-circle-fill'] , orientation='vertical', default_index= 0, menu_icon= 'cast')
+    selected = option_menu( menu_title = "Navigation", options = ["Home","Individual Case Metrics",'CSAT Response Rate', 'Individual Qualtrics Report', 'Program Level Feedback Report'],icons =["house","bar-chart","bar-chart","bar-chart", 'arrow-down-circle-fill'] , orientation='vertical', default_index= 0, menu_icon= 'cast')
 if selected == "Home":
     with case_level_data:
         st.header("Individual Case Metrics")
@@ -59,24 +59,6 @@ if selected == "Home":
         if st.button('Refresh the data'):
             subprocess.run(['python', 'C:/Users/komatiyk/Downloads/Qualtrics Weekly Files/csat.py'])
         aggrid_interactive_table(csat_rr)
-    with Program_level_FB_data:
-        st.header('Program Level Feedback Report')
-        dropdown_col, download_button_col= st.columns(2)
-        Program = dropdown_col.selectbox('Select your Region/Program from the dropdown below to filter the data:', options=['EU5', 'PAID', 'MENA', 'AU', 'SG', '3PX','Migration'])
-        program_selection = astro_report.query('status_notes == @Program')
-        def convert_df(df):
-            # IMPORTANT: Cache the conversion to prevent computation on every rerun
-            return df.to_csv().encode('utf-8')
-
-        csv_program = convert_df(astro_report)
-        st.download_button(
-            label="Download your selected region Feedbacks data for completed cases",
-            data=csv_program,
-            file_name='Your Feedbacks.csv',
-            mime='text/csv'
-        )
-        st.subheader("Filtered data will appear below 👇 ")
-        st.dataframe(astro_report)
     with Individual_FB_data:
         st.header('Individual Qualtrics Report')
         dropdown_col, download_button_col= st.columns(2)
@@ -102,7 +84,26 @@ if selected == "Home":
             data=csv_cases_due,
             file_name='cases_due.csv',
             mime='text/csv'
-        )  
+        )
+    with Program_level_FB_data:
+        st.header('Program Level Feedback Report')
+        st.subheader("**Note**: This dashboard is still under construction!.")
+        dropdown_col, download_button_col= st.columns(2)
+        Program = dropdown_col.selectbox('Select your Region/Program from the dropdown below to filter the data:', options=['EU5', 'PAID', 'MENA', 'AU', 'SG', '3PX','Migration'])
+        program_selection = astro_report.query('status_notes == @Program')
+        def convert_df(df):
+            # IMPORTANT: Cache the conversion to prevent computation on every rerun
+            return df.to_csv().encode('utf-8')
+
+        csv_program = convert_df(astro_report)
+        st.download_button(
+            label="Download your selected region Feedbacks data for completed cases",
+            data=csv_program,
+            file_name='Your Feedbacks.csv',
+            mime='text/csv'
+        )
+        st.subheader("Filtered data will appear below 👇 ")
+        st.dataframe(astro_report)      
 if selected == "Individual Case Metrics":
     with case_level_data:
         st.header("Individual Case Metrics")
@@ -146,7 +147,8 @@ if selected == 'Individual Qualtrics Report':
         )
 if selected == 'Program Level Feedback Report':
     with Program_level_FB_data:
-        st.header('Program Level Feedback Report')
+        st.header('Program Level Feedback Report') 
+        st.subheader("**Note**: This dashboard is still under construction!.")
         dropdown_col, download_button_col= st.columns(2)
         Program = dropdown_col.selectbox('Select your Region/Program from the dropdown below to filter the data:', options=['EU5', 'PAID', 'MENA', 'AU', 'SG', '3PX','Migration'])
         program_selection = astro_report.query('status_notes == @Program')
