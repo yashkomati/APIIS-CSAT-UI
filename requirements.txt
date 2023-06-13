@@ -1,5 +1,4 @@
 pandas==1.5.0
 Requests==2.31.0
 streamlit==1.23.1
-st_aggrid==0.3.4
 streamlit-aggrid ==0.3.4.post3
