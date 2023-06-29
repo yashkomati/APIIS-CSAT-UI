@@ -11,6 +11,7 @@ csat_rr = pd.read_csv('CSAT_RR_Pivot.csv')
 all_feedbacks = pd.read_csv('Merged_FB_File.csv')
 cases_due = pd.read_csv('cases_due.csv')
 astro_report = pd.read_csv('astro_combined.csv')
+csat_rr_paid = pd.read_csv('CSAT_RR_Paid_Pivot.csv')
 #astro_pivot = pd.pivot_table(astro, index =['owner'], values=['case_number'], columns=['status'], aggfunc= 'count', fill_value = 0)
 st.set_page_config(layout="wide", page_icon=":bar_chart:", page_title="APIIS Quality Metrics Dashboard")
 #Below is the structure of the containers within the Streamlit Page:
@@ -151,16 +152,19 @@ if selected == 'Program Level Feedback Report':
         st.subheader("**Note**: This dashboard is still under construction!.")
         dropdown_col, download_button_col= st.columns(2)
         Program = dropdown_col.selectbox('Select your Region/Program from the dropdown below to filter the data:', options=['EU5', 'PAID', 'MENA', 'AU', 'SG', '3PX','Migration'])
-        program_selection = astro_report.query('status_notes == @Program')
-        def convert_df(df):
-            # IMPORTANT: Cache the conversion to prevent computation on every rerun
-            return df.to_csv().encode('utf-8')
+        if dropdown_col.selectbox('Paid'):
+            aggrid_interactive_table(csat_rr_paid)
+
+        # program_selection = astro_report.query('status_notes == @Program')
+        # def convert_df(df):
+        #     # IMPORTANT: Cache the conversion to prevent computation on every rerun
+        #     return df.to_csv().encode('utf-8')
 
         csv_program = convert_df(astro_report)
         st.download_button(
             label="Download your selected region Feedbacks data for completed cases",
             data=csv_program,
-            file_name='Your Feedbacks.csv',
+            file_name='Progam level Feedbacks.csv',
             mime='text/csv'
         )
         st.subheader("Filtered data will appear below 👇 ")
