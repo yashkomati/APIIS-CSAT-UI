@@ -1,108 +1,224 @@
 ResponseID,ResponseSet,IPAddress,StartDate,EndDate,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalDataReference,Finished,Status,Q1,Q2_2,Q2_1,Q3,Q4,LocationLatitude,LocationLongitude,LocationAccuracy
 ResponseID,ResponseSet,IPAddress,StartDate,EndDate,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalDataReference,Finished,Status,How would you rate the overall support you received from API Integration team on a scale 5?,How would rate the support you are receiving from the representative handling your case?-Ability to communicate clearly,How would rate the support you are receiving from the representative handling your case?-Knowledge of SP-API products &amp; Services,"Please enter ""Your Merchant Token"" from Seller Central or you can find in the email shared by our...",If you would like to share any additional comments about your most recent interaction with our re...,LocationLatitude,LocationLongitude,LocationAccuracy
 {'ImportId': 'responseId'},{'ImportId': 'responseSetId'},{'ImportId': 'ipAddress'},{'ImportId': 'startDate'},{'ImportId': 'endDate'},{'ImportId': 'panel-RecipientLastName'},{'ImportId': 'panel-RecipientFirstName'},{'ImportId': 'panel-RecipientEmail'},{'ImportId': 'panel-ExternalDataReference'},{'ImportId': 'finished'},{'ImportId': 'status'},{'ImportId': 'QID52'},{'ImportId': 'QID56-2'},{'ImportId': 'QID56-1'},{'ImportId': 'QID53-TEXT'},{'ImportId': 'QID54-TEXT'},{'ImportId': 'Location-LocationLatitude'},{'ImportId': 'Location-LocationLongitude'},{'ImportId': 'Location-LocationAccuracy'}
-R_3ixKqbXrEC8SYsF,null,2.136.125.188,2021-05-27 11:51:32,2021-05-27 11:52:13,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A3VPHLYHPCJKES,Good communication,41.3948974609375,2.17559814453125,-1
-R_1psvFyimDLgz15A,null,77.77.185.66,2021-05-28 11:20:33,2021-05-28 11:21:44,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A2RAQ8TNRMPZIQ,Very good communication skills,36.726104736328125,-4.425994873046875,-1
-R_2Pun23beeA7ZIhH,null,78.31.45.90,2021-05-28 12:18:13,2021-05-28 12:18:36,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A2NDZEK3LP1JHN,was perfect !,48.832305908203125,2.407501220703125,-1
-R_2tnkQayBkIkFTAv,null,2.136.5.201,2021-06-09 11:22:56,2021-06-09 11:23:31,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A1JTB2R3QULPAM,,40.417205810546875,-3.6840057373046875,-1
-R_1I4U8GpQW7bUs4X,null,5.104.179.252,2021-06-29 15:31:05,2021-06-29 15:32:08,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A1HORN5O9WAMY3,,42.496307373046875,27.464599609375,-1
-R_1kTAVrB3ObVlVaW,null,90.59.114.255,2021-07-01 11:21:09,2021-07-01 11:22:19,,,,,1,0,4- Good,5- Excellent,5- Excellent,A3KG6JVZO29NS6,,47.21449279785156,-1.5511932373046875,-1
-R_3KSjwQ1Bh4k9B2F,null,52.49.239.90,2021-07-01 11:21:25,2021-07-01 11:22:57,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,,,53.33819580078125,-6.25909423828125,-1
-R_1EYeFd6NwfCnZ4w,null,176.131.47.107,2021-07-01 11:22:26,2021-07-01 11:23:37,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A3KG6JVZO29NS6,,48.873992919921875,2.497802734375,-1
-R_Uc1zZOGuO0yZkuB,null,89.225.236.218,2021-07-01 11:37:43,2021-07-01 11:38:20,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A3KG6JVZO29NS6,,48.6033935546875,-4.502105712890625,-1
-R_3oyYpbUCCJPk5ZX,null,88.130.171.126,2021-07-02 11:19:49,2021-07-02 11:20:58,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,7004879425,Everything well be fine,51.52229309082031,7.06329345703125,-1
-R_XYSBTCiyrNJowGl,null,62.220.81.114,2021-07-05 12:53:24,2021-07-05 12:55:24,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A13QJFXXCV7Q4P,,43.8616943359375,12.669296264648438,-1
-R_1gnJwY9sk0vqlBr,null,82.44.246.44,2021-07-07 13:18:40,2021-07-07 13:20:11,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A2FVU10FK3J9CO,Great to have contact with amazon directly to help us with the issues we are hitting when migrating to SP-API.  Prakash seems very helpful.,54.04789733886719,-2.797698974609375,-1
-R_2zez8ycpAhtQSbp,null,115.164.94.118,2021-07-16 09:19:11,2021-07-16 09:19:43,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,,,3.1071014404296875,101.6138916015625,-1
-R_1BWtsXlrwbR27tk,null,116.15.149.73,2021-07-16 13:03:31,2021-07-16 13:04:14,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,AN6NRR75R1JNM,NA,1.3153076171875,103.914306640625,-1
-R_3I3M4vKyqI5GB3D,null,103.217.178.213,2021-07-19 09:49:17,2021-07-19 09:50:54,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,ATNT63KGL0EYY,It Was brief and on point,24.920700073242188,67.06570434570312,-1
-R_3oSBZ2gl8YeLKAh,null,103.115.128.142,2021-07-30 13:05:22,2021-07-30 13:06:22,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A143JAV8WHUBX,No At the moment.,30.697998046875,76.6669921875,-1
-R_wRA6AGxxMyZskc9,null,83.216.66.7,2021-07-30 14:03:49,2021-07-30 14:04:20,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A33PK6N9A10W5K,,51.486602783203125,-1.7570037841796875,-1
-R_3hAzXSAV6doHCSo,null,177.155.102.2,2021-07-30 16:47:13,2021-07-30 16:50:44,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,ATIJP5UFQYFJY,,-29.922805786132812,-51.17439270019531,-1
-R_1OxK3DhHFtSntdv,null,78.31.45.90,2021-08-10 15:41:36,2021-08-10 15:43:07,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A2NDZEK3LP1JHN,Very good answer to my problems. Quick and good.,48.832305908203125,2.407501220703125,-1
-R_rqikf9KOEPKhyAV,null,223.25.81.80,2021-08-16 11:17:29,2021-08-16 11:20:13,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A3QOX851X535IH,,1.31939697265625,103.86740112304688,-1
-R_XmS54jAUCyIlnEd,null,62.254.132.194,2021-08-17 13:19:40,2021-08-17 13:20:06,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,AOS29HD33J2DT,,52.33250427246094,-0.1844024658203125,-1
-R_QaH6s9XJm3FKAxz,null,5.51.226.215,2021-08-25 12:21:17,2021-08-25 12:21:45,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A2NDZEK3LP1JHN,Good reactivity,48.832305908203125,2.407501220703125,-1
-R_3jYvWix62mlWDw6,null,78.31.45.90,2021-08-25 12:20:50,2021-08-25 12:22:05,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A2NDZEK3LP1JHN,Very helpful person,48.85820007324219,2.3386993408203125,-1
-R_2zqC7PKqdbHuRPD,null,5.51.226.215,2021-08-25 17:05:23,2021-08-25 17:06:01,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A2NDZEK3LP1JHN,Yeahhh Thanks you Prakash !! You save us !!! \Best regards !,48.832305908203125,2.407501220703125,-1
-R_1mPlaTu8602NyDk,null,78.31.45.90,2021-08-25 17:05:25,2021-08-25 17:06:02,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A2NDZEK3LP1JHN,"Help we receive exactly help us to resolv problem, that's perfect :)",48.85820007324219,2.3386993408203125,-1
-R_2bHnnv0rNzmjK4B,null,202.186.69.192,2021-09-01 14:25:17,2021-09-01 14:27:00,,,,,1,0,4- Good,5- Excellent,4- Good,A1I8X3GIQ4LKR5,,3.0995025634765625,101.60540771484375,-1
-R_3fkt6ItepYJXlWn,null,78.31.45.90,2021-09-08 14:31:26,2021-09-08 14:32:32,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A2G6RCXOK3KT5N,,48.85820007324219,2.3386993408203125,-1
-R_1g2wdz103NTwH5Q,null,78.31.45.90,2021-09-08 14:32:55,2021-09-08 14:33:45,,,,,1,8,5- Excellent,5- Excellent,5- Excellent,A2G6RCXOK3KT5N,,48.85820007324219,2.3386993408203125,-1
-R_2YXOp1Ca8QnoQIY,null,78.31.45.90,2021-09-08 14:31:30,2021-09-08 18:36:32,,,,,1,0,4- Good,5- Excellent,5- Excellent,A2G6RCXOK3KT5N,good and efficient communication,48.85820007324219,2.3386993408203125,-1
-R_2fDtZVQorr0ch5w,null,213.37.20.85,2021-09-13 11:47:59,2021-09-13 11:49:20,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A33YJAHSGJJ2EL,,40.41630554199219,-3.6934051513671875,-1
-R_3J34y84POcBXIxC,null,93.214.23.170,2021-09-16 12:23:43,2021-09-16 12:25:12,,,,,1,0,4- Good,4- Good,4- Good,AQENRB1XF6OE7,,51.1510009765625,8.289794921875,-1
-R_AdoYNHeZo7ehwFb,null,93.214.23.170,2021-09-28 11:26:57,2021-09-28 11:28:14,,,,,1,0,4- Good,4- Good,4- Good,AQENRB1XF6OE7,,51.1510009765625,8.289794921875,-1
-R_2Yoo6YRcT1RhXrI,null,84.46.79.194,2021-09-28 11:26:59,2021-09-28 11:35:17,,,,,1,0,3 -Fair,4- Good,3 -Fair,AQENRB1XF6OE7,We needed technical support for the development of this unfortunately could not be given.,53.55439758300781,9.996002197265625,-1
-R_5j2HLsjmrW3N5Op,null,62.48.193.170,2021-10-01 12:26:43,2021-10-01 12:29:27,,,,,1,0,4- Good,5- Excellent,5- Excellent,A2OMZZIEIV1E43,,38.76420593261719,-7.4969940185546875,-1
-R_2AWIxCFOdPMS8eZ,null,93.253.128.107,2021-10-07 12:14:02,2021-10-07 12:19:11,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A1QY6USG2R34HY,Received today from Prakash Jha a very good introductiuon to the new API technology that will enable us to manage the first formal steps to request the authorisations and set up an interface user. I am really looking forward to get his support for the next comming steps. Very professional service!!\Thank you,53.222900390625,7.7451019287109375,-1
-R_27WGX6GhXifZHCy,null,156.213.190.196,2021-10-08 14:32:50,2021-10-08 14:34:04,,,,,1,0,4- Good,4- Good,4- Good,,,30.077804565429688,31.285202026367188,-1
-R_1rJo9GeAWMC5WdH,null,102.47.228.145,2021-10-08 14:32:45,2021-10-08 14:34:09,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,29073419412,,30.077804565429688,31.285202026367188,-1
-R_3nBhLRaovaoXl4q,null,156.213.190.196,2021-10-08 14:34:13,2021-10-08 14:34:29,,,,,1,0,4- Good,4- Good,4- Good,29073419412,,30.077804565429688,31.285202026367188,-1
-R_3NwZvow4I2GsPT0,null,84.169.97.199,2021-10-18 11:40:54,2021-10-18 11:43:29,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A1XR9C6G2X9899,A very good and helpfull contact. We are so happy for this.,50.81050109863281,7.882293701171875,-1
-R_2PA9SuYpSGYNVdg,null,84.157.102.224,2021-10-18 11:41:53,2021-10-18 15:10:25,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A1XR9C6G2X9899,,50.64610290527344,7.9380950927734375,-1
-R_3NVdyrUGB24LXQB,null,213.141.81.16,2021-11-02 14:27:20,2021-11-02 14:28:23,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A1BK3L7C83ST5M,,60.674102783203125,17.148300170898438,-1
-R_3wpuopL16yXv9MR,null,213.141.81.16,2021-11-02 14:27:32,2021-11-03 15:06:23,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A1BK3L7C83ST5M,Parkash was helpful :),60.674102783203125,17.148300170898438,-1
-R_3JJX0lgCc02atZs,null,156.223.150.72,2021-11-22 15:29:12,2021-11-22 15:32:01,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A27AD0CFTRIZXR,Very helpful support,30.077804565429688,31.285202026367188,-1
-R_21uO2s90FWokiM4,null,62.220.81.211,2021-12-13 10:54:22,2021-12-13 10:56:49,,,,,1,0,4- Good,5- Excellent,4- Good,A13QJFXXCV7Q4P,"Prakash has been very proactive, providing help and suggestions for us to identify and resolve issues quickly.\We really appreciate his help!",43.8616943359375,12.669296264648438,-1
-R_BP5skyP6xPVkMN3,null,176.190.181.45,2021-12-16 13:53:01,2021-12-16 13:53:27,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A20N8BNE5ZG8NL,,45.74800109863281,4.850006103515625,-1
-R_1rJMXO4Knawf542,null,185.35.216.244,2021-12-16 15:13:23,2021-12-16 15:15:16,,,,,1,0,4- Good,5- Excellent,4- Good,A15N4UXNO07455,,51.10679626464844,6.9528961181640625,-1
-R_3KCS5KuIMcd8op3,null,70.78.193.161,2021-12-16 19:26:01,2021-12-16 19:26:42,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,AU1U7WJBPCIWV,,49.074493408203125,-121.98260498046875,-1
-R_3I4spdCHAHdfpK5,null,104.28.129.1,2021-12-21 18:47:58,2021-12-21 18:48:24,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A2J67ECZ9K9JG4,,48.193603515625,16.372604370117188,-1
-R_2ffjQDl0jkfe6bV,null,220.250.41.81,2021-12-22 04:28:23,2021-12-22 04:38:43,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A36WZYTHW9099D,Hope to continue to cooperate happily in the future,26.0614013671875,119.30609130859375,-1
-R_12FnWhUNqTLuC7n,null,79.151.127.61,2021-12-22 08:46:56,2021-12-22 08:47:26,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A3S363HDUSCR5X,,41.50230407714844,2.3975067138671875,-1
-R_217ki4umEoWtJtV,null,193.24.38.94,2021-12-22 10:27:14,2021-12-22 10:29:40,,,,,1,0,4- Good,5- Excellent,4- Good,A2JJ0JALBT9XF9,"The API Integration team has been very helpful in developing our SP Api connection to Amazon.\Sometimes we have technical issues which take a long time to get cleared up, but across the board we're very happy with the continuous support from the API Integration team!",51.288604736328125,6.0511932373046875,-1
-R_24phiFUCut2kcWv,null,51.155.39.34,2021-12-27 11:16:51,2021-12-27 11:17:14,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A1IU9K040JJ2XQ,,51.881195068359375,0.55450439453125,-1
-R_3n7yWpEy8P2ztAJ,null,66.96.206.224,2021-12-29 09:16:12,2021-12-29 09:17:25,,,,,1,0,4- Good,4- Good,4- Good,A3UR791ARTIR7K,,1.3036041259765625,103.85540771484375,-1
-R_33pV2Xg0QKIEX0j,null,87.132.254.135,2022-01-06 20:52:25,2022-01-06 21:00:28,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A1QY6USG2R34HY,Prakash is very competent and guided us safely through the complicated registration process. He was also always proactive in asking about the approval status after sending the authrotization request and then quickly assisted us with the next steps. He is also very friendly and patient.,52.349700927734375,8.235198974609375,-1
-R_3JsWZ1YKtdTMJhI,null,91.167.134.209,2022-01-13 11:19:54,2022-01-13 11:20:13,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A39M9056YONGLB,"Great, very clear",48.60249328613281,7.784393310546875,-1
-R_10wQEjnjEumIONU,null,91.169.86.142,2022-01-13 11:19:47,2022-01-13 11:22:12,,,,,1,0,5- Excellent,4- Good,4- Good,AGXU2MEF6J8N4,ok,45.90629577636719,6.129302978515625,-1
-R_3jYVV8OnhWmWqBQ,null,80.15.202.35,2022-02-21 12:28:11,2022-02-21 12:29:11,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A2CVTS7GLCXTF7,,48.85820007324219,2.3386993408203125,-1
-R_2sSm3EQQQjUdz3E,null,81.97.63.28,2022-04-05 12:29:14,2022-04-05 12:29:34,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A33F2UTXG3GEEI,Thank you,51.4638,0.1434,-1
-R_24ip5T3kzCBYL1A,null,31.196.140.251,2022-04-08 11:08:49,2022-04-08 11:16:26,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A14A76D9KSR7BK,Helpful and competent in resolving questions raised during the call,44.595,7.8731,-1
-R_2E6oFvKUbXDMHk8,null,83.43.50.183,2022-06-07 12:17:53,2022-06-07 12:21:01,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A36R4UMUIG4ZJ6,"Prakash has been very nice and helpful to unblock our issues with Amazon SP Api, He has a great knowledge and understanding on how the AWS services + amazon sp api work and his help has been very appreciated for us.\Thank you",41.4656,2.0794,-1
-R_2TyJRtaALcr88o3,null,191.221.119.220,2022-06-09 13:33:35,2022-06-09 13:34:26,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,ATIJP5UFQYFJY,,-29.7408,-51.1308,-1
-R_bQUzkYTqqRMbfYR,null,85.60.70.54,2022-07-05 14:56:43,2022-07-05 14:59:30,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A1JLJW2WT6ZDLU,"It's very quicly solution at my problems, very quicly to answer mails.\\itis a pleasure to work with this services of amazon. Amazon is amazing! when have the correct way to make the request.\\thanks to this super-heroe suport team!",41.387,2.1701,-1
-R_1OTXUIDCuBlMGFr,null,87.18.204.41,2022-07-07 13:15:35,2022-07-07 13:20:34,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A1TNQSXS35GZSO,"Really professional and helpfull, you can feel that he cares about giving a great servicer. Perfect english. Quick replies. Overall 10/10",43.6788,10.5641,-1
-R_2Cs51uLTeNLyrOR,null,106.205.202.17,2022-07-19 11:00:52,2022-07-19 11:07:47,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,AT4MDN2GW9V15,Our all the doubts were solved very quickly and the experience was outstanding.  Would really like to thank Prakash for taking our queries and solving them on priority.,26.9525,75.7105,-1
-R_23gIk7euJQma9Yy,null,103.52.255.203,2022-07-19 11:00:41,2022-07-19 11:17:19,,,,,1,0,5- Excellent,5- Excellent,4- Good,AT4MDN2GW9V15,Very clear cut solution provided and understanding of sp apis.\Resolution of queries handled effectively.,22.518,88.3832,-1
-R_3eai6WbEkws1T4r,null,115.64.206.31,2022-07-19 14:11:32,2022-07-19 14:15:50,,,,,1,0,5- Excellent,5- Excellent,4- Good,AUE3UT8ERDGYF,They are very helpful whenever I missed on the way.,-33.8715,151.2006,-1
-R_SOAmguOi2QdR6Kt,null,62.48.193.170,2022-07-29 15:33:28,2022-07-29 15:34:27,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A2OMZZIEIV1E43,,41.3478,-8.4709,-1
-R_29fPCHJTCgX3BR8,null,87.1.204.54,2022-08-05 09:42:56,2022-08-05 09:43:26,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A1TNQSXS35GZSO,,43.847,10.5018,-1
-R_2bOSE31yBxCtQAQ,null,79.200.142.245,2022-08-25 11:35:41,2022-08-25 11:37:36,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,AETJIZQPGKI55,We got always good and helpfull answers for our questions.,54.79,9.4619,-1
-R_1GDltyk9nGDvuKr,null,182.1.98.83,2022-09-28 08:24:40,2022-09-28 08:25:54,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A21R40KB6P99RD,Super helpful and informative! I really enjoy getting feedback from Prakash whenever my developers or me have questions. Appreciate it!,-7.2484,112.7419,-1
-R_2BqAePYGf5MsV7U,null,2.139.118.13,2022-09-30 16:31:26,2022-09-30 16:32:31,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,296631550012,all ok,40.4163,-3.6934,-1
-R_AL1iIKNUgBfmqqJ,null,212.252.141.18,2022-09-30 16:30:56,2022-09-30 16:33:31,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,296631550012,,38.5173,27.2242,-1
-R_r2x5uJlfGyA3c9X,null,203.213.109.210,2022-10-07 08:39:54,2022-10-07 08:40:48,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A36CU8R6LRQ8N4,Prakash is absolutely amazing and easy to deal with. i like him.,-37.8159,144.9669,-1
-R_yX7JQckx73cAAH7,null,80.86.157.208,2022-10-21 13:08:45,2022-10-21 13:10:19,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A1AQUMO0BGUQGS,,45.7723,12.6021,-1
-R_tWjqNwVEzLleJoZ,null,95.70.138.4,2022-10-28 12:51:29,2022-10-28 12:52:00,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,AO7BZ4Q1W0DTB,,41.0247,28.9252,-1
-R_tF14YquZajqYQOR,null,91.126.240.176,2022-10-28 16:13:34,2022-10-28 16:14:19,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A23ROCPBKNSUXP,"Everything perfect, very useful, thanks!",41.6133,0.6269,-1
-R_3NCaqzOYrLnPYXo,null,52.95.75.30,2022-10-28 17:54:20,2022-10-28 17:57:36,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A2Q82BE0LV1U0E,Prakash is doing an awesome job with helping PL DSR team by supporting Baselinker integrator. Thank you for all of your help! (Stakeholder's feedback),19.0748,72.8856,-1
-R_1U35oCki732hKIF,null,46.1.103.85,2022-11-01 10:55:09,2022-11-01 10:55:45,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,AWBIAJBNKKQYF,,41.1722,36.28,-1
-R_3dLmkpy81mV1TuQ,null,54.240.197.227,2022-11-09 08:51:08,2022-11-09 08:52:54,,,,,1,0,5- Excellent,4- Good,5- Excellent,A3IDIF88NVPIDJ,/,47.6348,-122.3451,-1
-R_2dpg3CJugD1OQVm,null,49.207.53.58,2022-11-09 15:13:55,2022-11-09 15:15:02,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A18FN31P1MJ6DC,Support from the Amazon SP API team was exceptional. They helped us in all possible way and would like to really appreciated Prakash.\\Thank you once again.,12.9634,77.5855,-1
-R_1rBoW56O7y702Mf,null,54.240.197.234,2022-11-10 17:58:35,2022-11-10 17:59:03,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A3QEV1EYJUWUVL,,37.751,-97.822,-1
-R_25RWcDLKNYD9ipm,null,54.239.6.185,2022-11-10 18:09:28,2022-11-10 18:09:47,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,ATK8G06TG8KA7,,50.1188,8.6843,-1
-R_3IVGJPlGD9KpXa2,null,89.247.171.106,2022-11-11 18:02:22,2022-11-11 18:03:12,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A3O1SPPVFKO786,Prakash was very professional and could help use quick and without any problems.,52.5155,13.4059,-1
-R_2dxY4me3vSpdg5d,null,54.239.6.190,2022-11-15 08:43:45,2022-11-15 09:00:10,,,,,1,0,4- Good,4- Good,4- Good,A22XH7NN6CGBD2,Prakash went out of his way to help the Selling Partner and assist in any way possible to troubleshoot the faulty integration.,50.1188,8.6843,-1
-R_32JYcf7BhBgBYUT,null,12.106.191.15,2022-11-15 13:59:15,2022-11-15 14:00:45,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A7CL6GT0UVQKS,"We received a follow up email on an open question after our initial conversation, which was very helpful because we had to switch focus to another project in the meanwhile and it helped us stay up to date without any effort from our side.",41.792,-88.166,-1
-R_b9mzcIqOprv2J4l,null,80.217.227.138,2022-11-18 12:41:11,2022-11-18 12:43:02,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A3FUWIVN918VYA,"Great service, clear instructions and easy and fast communication",59.3565,17.9651,-1
-R_3NIjnvjOY1sENpG,null,54.239.6.184,2022-11-22 10:19:23,2022-11-22 10:19:54,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A392Q4MYEX2UCE,,50.1188,8.6843,-1
-R_2xM0Rc4m4EpUkca,null,151.71.208.161,2022-11-30 11:28:05,2022-11-30 11:29:37,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A1AQUMO0BGUQGS,,45.4096,11.8947,-1
-R_oZ7NjupxC24Adih,null,151.71.208.161,2022-12-09 10:22:47,2022-12-09 10:24:32,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A1AQUMO0BGUQGS,,45.4096,11.8947,-1
-R_tGwCWoNoZ2bNcd3,null,62.48.193.170,2022-12-13 17:48:15,2022-12-13 17:50:23,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A2OMZZIEIV1E43,,41.3478,-8.4709,-1
-R_uwbgItTWkS1xWX7,null,54.239.6.190,2022-12-25 22:33:47,2022-12-25 22:34:18,,,,,1,0,4- Good,4- Good,4- Good,A3QR4QDIY50JB4,NA,50.1188,8.6843,-1
-R_puWDAMss4w83841,null,151.71.208.161,2022-12-26 18:35:52,2022-12-26 18:37:04,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,AS7II4OKSTFA2,,45.4096,11.8947,-1
-R_3NUrBDZkt3PcZiL,null,151.71.208.161,2022-12-27 08:41:10,2022-12-27 08:41:23,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,AS7II4OKSTFA2,,45.4096,11.8947,-1
-R_2qfkLImi0uYYFLC,null,193.192.118.18,2023-03-01 13:48:58,2023-03-01 13:49:53,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,AZA5KK07ASIQ0,,41.0551,28.9347,-1
-R_2cqHDdUIPA6NZgu,null,193.192.118.18,2023-03-15 10:02:11,2023-03-15 10:02:52,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,AZA5KK07ASIQ0,,41.0551,28.9347,-1
-R_3GrK3FtykWoVspN,null,213.74.103.138,2023-03-22 13:34:06,2023-03-22 13:35:43,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A2DCSWKZEQ250K,Prakash has a very good communication,38.371,27.1097,-1
-R_1OZx9bnQSQZaNsz,null,87.139.37.46,2023-03-30 13:14:23,2023-03-30 13:15:05,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A3D680WK11ANBB,,52.5196,13.4069,-1
-R_2uDnKWmIY3ufKhv,null,37.209.164.143,2023-04-04 18:55:10,2023-04-04 18:55:26,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A1JLJW2WT6ZDLU,GENIUS,41.5571,2.3974,-1
-R_2bGZVeuBdGu4UqC,null,77.138.222.181,2023-04-10 14:26:32,2023-04-10 14:27:01,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A2C0PA7SHB9M12,great answers,32.1678,34.8205,-1
-R_21AqwaQVhek7NUd,null,147.161.167.5,2023-04-14 11:16:45,2023-04-14 11:17:36,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A2SY6RBUV38U0L,,51.5264,-0.0841,-1
-R_OqWNC7qqAG7fTVv,null,83.56.32.103,2023-04-25 12:42:18,2023-04-25 12:58:44,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A1XMLMRL6W4HRS,,38.342,-0.4825,-1
-R_3Nxg5653EUJRAh6,null,83.56.32.103,2023-05-09 13:03:35,2023-05-09 13:07:21,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A1XMLMRL6W4HRS,He has been very kind and has been a great help to me,38.342,-0.4825,-1
-R_5mOuXCslCtmib4J,null,84.82.223.145,2023-06-10 08:04:21,2023-06-10 08:05:34,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A2EOY1HCIW3FBT,Very knowledgeable and friendly.,51.9306,6.5614,-1
-R_sOsmLVhDOCN590R,null,73.139.217.104,2023-06-15 14:37:46,2023-06-15 14:44:34,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A1XAS3CZGZFJQJ,Prakash Jha was my integration Specialist on the Migration to the new SP-API. He was fantastic ! He helped me set up my account parameters correctly. He walked me through testing the values. He verified everything was working properly.  He is patient and made sure all the settings on my account were correct.  He stayed in contact with me during the whole process and made sure I was well taken care of. I give him excellent marks in all categories and would love to work with him again.,26.2975,-80.1816,-1
-R_2P6cjvKoxsFohh3,null,217.246.170.171,2023-07-11 13:47:33,2023-07-11 13:47:51,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A3OFXH0RLDPNKY,,51.6191,14.5892,-1
+R_3ixKqbXrEC8SYsF,null,2.136.125.188,5/27/2021 11:51,5/27/2021 11:52,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A3VPHLYHPCJKES,Good communication,41.39489746,2.175598145,-1
+R_1psvFyimDLgz15A,null,77.77.185.66,5/28/2021 11:20,5/28/2021 11:21,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A2RAQ8TNRMPZIQ,Very good communication skills,36.72610474,-4.425994873,-1
+R_2Pun23beeA7ZIhH,null,78.31.45.90,5/28/2021 12:18,5/28/2021 12:18,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A2NDZEK3LP1JHN,was perfect !,48.83230591,2.407501221,-1
+R_2tnkQayBkIkFTAv,null,2.136.5.201,6/9/2021 11:22,6/9/2021 11:23,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A1JTB2R3QULPAM,,40.41720581,-3.684005737,-1
+R_1I4U8GpQW7bUs4X,null,5.104.179.252,6/29/2021 15:31,6/29/2021 15:32,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A1HORN5O9WAMY3,,42.49630737,27.46459961,-1
+R_1kTAVrB3ObVlVaW,null,90.59.114.255,7/1/2021 11:21,7/1/2021 11:22,,,,,1,0,4- Good,5- Excellent,5- Excellent,A3KG6JVZO29NS6,,47.2144928,-1.551193237,-1
+R_3KSjwQ1Bh4k9B2F,null,52.49.239.90,7/1/2021 11:21,7/1/2021 11:22,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,,,53.3381958,-6.259094238,-1
+R_1EYeFd6NwfCnZ4w,null,176.131.47.107,7/1/2021 11:22,7/1/2021 11:23,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A3KG6JVZO29NS6,,48.87399292,2.497802734,-1
+R_Uc1zZOGuO0yZkuB,null,89.225.236.218,7/1/2021 11:37,7/1/2021 11:38,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A3KG6JVZO29NS6,,48.60339355,-4.502105713,-1
+R_3oyYpbUCCJPk5ZX,null,88.130.171.126,7/2/2021 11:19,7/2/2021 11:20,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,7004879425,Everything well be fine,51.52229309,7.063293457,-1
+R_XYSBTCiyrNJowGl,null,62.220.81.114,7/5/2021 12:53,7/5/2021 12:55,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A13QJFXXCV7Q4P,,43.86169434,12.66929626,-1
+R_1gnJwY9sk0vqlBr,null,82.44.246.44,7/7/2021 13:18,7/7/2021 13:20,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A2FVU10FK3J9CO,Great to have contact with amazon directly to help us with the issues we are hitting when migrating to SP-API.  Prakash seems very helpful.,54.04789734,-2.797698975,-1
+R_2zez8ycpAhtQSbp,null,115.164.94.118,7/16/2021 9:19,7/16/2021 9:19,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,,,3.10710144,101.6138916,-1
+R_1BWtsXlrwbR27tk,null,116.15.149.73,7/16/2021 13:03,7/16/2021 13:04,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,AN6NRR75R1JNM,NA,1.315307617,103.9143066,-1
+R_3I3M4vKyqI5GB3D,null,103.217.178.213,7/19/2021 9:49,7/19/2021 9:50,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,ATNT63KGL0EYY,It Was brief and on point,24.92070007,67.06570435,-1
+R_3oSBZ2gl8YeLKAh,null,103.115.128.142,7/30/2021 13:05,7/30/2021 13:06,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A143JAV8WHUBX,No At the moment.,30.69799805,76.66699219,-1
+R_wRA6AGxxMyZskc9,null,83.216.66.7,7/30/2021 14:03,7/30/2021 14:04,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A33PK6N9A10W5K,,51.48660278,-1.757003784,-1
+R_3hAzXSAV6doHCSo,null,177.155.102.2,7/30/2021 16:47,7/30/2021 16:50,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,ATIJP5UFQYFJY,,-29.92280579,-51.1743927,-1
+R_1OxK3DhHFtSntdv,null,78.31.45.90,8/10/2021 15:41,8/10/2021 15:43,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A2NDZEK3LP1JHN,Very good answer to my problems. Quick and good.,48.83230591,2.407501221,-1
+R_rqikf9KOEPKhyAV,null,223.25.81.80,8/16/2021 11:17,8/16/2021 11:20,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A3QOX851X535IH,,1.319396973,103.8674011,-1
+R_XmS54jAUCyIlnEd,null,62.254.132.194,8/17/2021 13:19,8/17/2021 13:20,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,AOS29HD33J2DT,,52.33250427,-0.184402466,-1
+R_QaH6s9XJm3FKAxz,null,5.51.226.215,8/25/2021 12:21,8/25/2021 12:21,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A2NDZEK3LP1JHN,Good reactivity,48.83230591,2.407501221,-1
+R_3jYvWix62mlWDw6,null,78.31.45.90,8/25/2021 12:20,8/25/2021 12:22,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A2NDZEK3LP1JHN,Very helpful person,48.85820007,2.338699341,-1
+R_2zqC7PKqdbHuRPD,null,5.51.226.215,8/25/2021 17:05,8/25/2021 17:06,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A2NDZEK3LP1JHN,Yeahhh Thanks you Prakash !! You save us !!! \Best regards !,48.83230591,2.407501221,-1
+R_1mPlaTu8602NyDk,null,78.31.45.90,8/25/2021 17:05,8/25/2021 17:06,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A2NDZEK3LP1JHN,"Help we receive exactly help us to resolv problem, that's perfect :)",48.85820007,2.338699341,-1
+R_2bHnnv0rNzmjK4B,null,202.186.69.192,9/1/2021 14:25,9/1/2021 14:27,,,,,1,0,4- Good,5- Excellent,4- Good,A1I8X3GIQ4LKR5,,3.099502563,101.6054077,-1
+R_3fkt6ItepYJXlWn,null,78.31.45.90,9/8/2021 14:31,9/8/2021 14:32,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A2G6RCXOK3KT5N,,48.85820007,2.338699341,-1
+R_1g2wdz103NTwH5Q,null,78.31.45.90,9/8/2021 14:32,9/8/2021 14:33,,,,,1,8,5- Excellent,5- Excellent,5- Excellent,A2G6RCXOK3KT5N,,48.85820007,2.338699341,-1
+R_2YXOp1Ca8QnoQIY,null,78.31.45.90,9/8/2021 14:31,9/8/2021 18:36,,,,,1,0,4- Good,5- Excellent,5- Excellent,A2G6RCXOK3KT5N,good and efficient communication,48.85820007,2.338699341,-1
+R_2fDtZVQorr0ch5w,null,213.37.20.85,9/13/2021 11:47,9/13/2021 11:49,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A33YJAHSGJJ2EL,,40.41630554,-3.693405151,-1
+R_3J34y84POcBXIxC,null,93.214.23.170,9/16/2021 12:23,9/16/2021 12:25,,,,,1,0,4- Good,4- Good,4- Good,AQENRB1XF6OE7,,51.15100098,8.289794922,-1
+R_AdoYNHeZo7ehwFb,null,93.214.23.170,9/28/2021 11:26,9/28/2021 11:28,,,,,1,0,4- Good,4- Good,4- Good,AQENRB1XF6OE7,,51.15100098,8.289794922,-1
+R_2Yoo6YRcT1RhXrI,null,84.46.79.194,9/28/2021 11:26,9/28/2021 11:35,,,,,1,0,3 -Fair,4- Good,3 -Fair,AQENRB1XF6OE7,We needed technical support for the development of this unfortunately could not be given.,53.55439758,9.996002197,-1
+R_5j2HLsjmrW3N5Op,null,62.48.193.170,10/1/2021 12:26,10/1/2021 12:29,,,,,1,0,4- Good,5- Excellent,5- Excellent,A2OMZZIEIV1E43,,38.76420593,-7.496994019,-1
+R_2AWIxCFOdPMS8eZ,null,93.253.128.107,10/7/2021 12:14,10/7/2021 12:19,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A1QY6USG2R34HY,Received today from Prakash Jha a very good introductiuon to the new API technology that will enable us to manage the first formal steps to request the authorisations and set up an interface user. I am really looking forward to get his support for the next comming steps. Very professional service!!\Thank you,53.22290039,7.745101929,-1
+R_27WGX6GhXifZHCy,null,156.213.190.196,10/8/2021 14:32,10/8/2021 14:34,,,,,1,0,4- Good,4- Good,4- Good,,,30.07780457,31.28520203,-1
+R_1rJo9GeAWMC5WdH,null,102.47.228.145,10/8/2021 14:32,10/8/2021 14:34,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,29073419412,,30.07780457,31.28520203,-1
+R_3nBhLRaovaoXl4q,null,156.213.190.196,10/8/2021 14:34,10/8/2021 14:34,,,,,1,0,4- Good,4- Good,4- Good,29073419412,,30.07780457,31.28520203,-1
+R_3NwZvow4I2GsPT0,null,84.169.97.199,10/18/2021 11:40,10/18/2021 11:43,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A1XR9C6G2X9899,A very good and helpfull contact. We are so happy for this.,50.8105011,7.882293701,-1
+R_2PA9SuYpSGYNVdg,null,84.157.102.224,10/18/2021 11:41,10/18/2021 15:10,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A1XR9C6G2X9899,,50.64610291,7.938095093,-1
+R_3NVdyrUGB24LXQB,null,213.141.81.16,11/2/2021 14:27,11/2/2021 14:28,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A1BK3L7C83ST5M,,60.67410278,17.14830017,-1
+R_3wpuopL16yXv9MR,null,213.141.81.16,11/2/2021 14:27,11/3/2021 15:06,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A1BK3L7C83ST5M,Parkash was helpful :),60.67410278,17.14830017,-1
+R_3JJX0lgCc02atZs,null,156.223.150.72,11/22/2021 15:29,11/22/2021 15:32,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A27AD0CFTRIZXR,Very helpful support,30.07780457,31.28520203,-1
+R_21uO2s90FWokiM4,null,62.220.81.211,12/13/2021 10:54,12/13/2021 10:56,,,,,1,0,4- Good,5- Excellent,4- Good,A13QJFXXCV7Q4P,"Prakash has been very proactive, providing help and suggestions for us to identify and resolve issues quickly.\We really appreciate his help!",43.86169434,12.66929626,-1
+R_BP5skyP6xPVkMN3,null,176.190.181.45,12/16/2021 13:53,12/16/2021 13:53,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A20N8BNE5ZG8NL,,45.7480011,4.850006104,-1
+R_1rJMXO4Knawf542,null,185.35.216.244,12/16/2021 15:13,12/16/2021 15:15,,,,,1,0,4- Good,5- Excellent,4- Good,A15N4UXNO07455,,51.10679626,6.952896118,-1
+R_3KCS5KuIMcd8op3,null,70.78.193.161,12/16/2021 19:26,12/16/2021 19:26,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,AU1U7WJBPCIWV,,49.07449341,-121.982605,-1
+R_3I4spdCHAHdfpK5,null,104.28.129.1,12/21/2021 18:47,12/21/2021 18:48,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A2J67ECZ9K9JG4,,48.19360352,16.37260437,-1
+R_2ffjQDl0jkfe6bV,null,220.250.41.81,12/22/2021 4:28,12/22/2021 4:38,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A36WZYTHW9099D,Hope to continue to cooperate happily in the future,26.06140137,119.3060913,-1
+R_12FnWhUNqTLuC7n,null,79.151.127.61,12/22/2021 8:46,12/22/2021 8:47,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A3S363HDUSCR5X,,41.50230408,2.397506714,-1
+R_217ki4umEoWtJtV,null,193.24.38.94,12/22/2021 10:27,12/22/2021 10:29,,,,,1,0,4- Good,5- Excellent,4- Good,A2JJ0JALBT9XF9,"The API Integration team has been very helpful in developing our SP Api connection to Amazon.\Sometimes we have technical issues which take a long time to get cleared up, but across the board we're very happy with the continuous support from the API Integration team!",51.28860474,6.051193237,-1
+R_24phiFUCut2kcWv,null,51.155.39.34,12/27/2021 11:16,12/27/2021 11:17,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A1IU9K040JJ2XQ,,51.88119507,0.554504395,-1
+R_3n7yWpEy8P2ztAJ,null,66.96.206.224,12/29/2021 9:16,12/29/2021 9:17,,,,,1,0,4- Good,4- Good,4- Good,A3UR791ARTIR7K,,1.303604126,103.8554077,-1
+R_33pV2Xg0QKIEX0j,null,87.132.254.135,1/6/2022 20:52,1/6/2022 21:00,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A1QY6USG2R34HY,Prakash is very competent and guided us safely through the complicated registration process. He was also always proactive in asking about the approval status after sending the authrotization request and then quickly assisted us with the next steps. He is also very friendly and patient.,52.34970093,8.235198975,-1
+R_3JsWZ1YKtdTMJhI,null,91.167.134.209,1/13/2022 11:19,1/13/2022 11:20,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A39M9056YONGLB,"Great, very clear",48.60249329,7.784393311,-1
+R_10wQEjnjEumIONU,null,91.169.86.142,1/13/2022 11:19,1/13/2022 11:22,,,,,1,0,5- Excellent,4- Good,4- Good,AGXU2MEF6J8N4,ok,45.90629578,6.129302979,-1
+R_3jYVV8OnhWmWqBQ,null,80.15.202.35,2/21/2022 12:28,2/21/2022 12:29,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A2CVTS7GLCXTF7,,48.85820007,2.338699341,-1
+R_2sSm3EQQQjUdz3E,null,81.97.63.28,4/5/2022 12:29,4/5/2022 12:29,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A33F2UTXG3GEEI,Thank you,51.4638,0.1434,-1
+R_24ip5T3kzCBYL1A,null,31.196.140.251,4/8/2022 11:08,4/8/2022 11:16,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A14A76D9KSR7BK,Helpful and competent in resolving questions raised during the call,44.595,7.8731,-1
+R_2E6oFvKUbXDMHk8,null,83.43.50.183,6/7/2022 12:17,6/7/2022 12:21,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A36R4UMUIG4ZJ6,"Prakash has been very nice and helpful to unblock our issues with Amazon SP Api, He has a great knowledge and understanding on how the AWS services + amazon sp api work and his help has been very appreciated for us.\Thank you",41.4656,2.0794,-1
+R_2TyJRtaALcr88o3,null,191.221.119.220,6/9/2022 13:33,6/9/2022 13:34,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,ATIJP5UFQYFJY,,-29.7408,-51.1308,-1
+R_bQUzkYTqqRMbfYR,null,85.60.70.54,7/5/2022 14:56,7/5/2022 14:59,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A1JLJW2WT6ZDLU,"It's very quicly solution at my problems, very quicly to answer mails.\\itis a pleasure to work with this services of amazon. Amazon is amazing! when have the correct way to make the request.\\thanks to this super-heroe suport team!",41.387,2.1701,-1
+R_1OTXUIDCuBlMGFr,null,87.18.204.41,7/7/2022 13:15,7/7/2022 13:20,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A1TNQSXS35GZSO,"Really professional and helpfull, you can feel that he cares about giving a great servicer. Perfect english. Quick replies. Overall 10/10",43.6788,10.5641,-1
+R_2Cs51uLTeNLyrOR,null,106.205.202.17,7/19/2022 11:00,7/19/2022 11:07,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,AT4MDN2GW9V15,Our all the doubts were solved very quickly and the experience was outstanding.  Would really like to thank Prakash for taking our queries and solving them on priority.,26.9525,75.7105,-1
+R_23gIk7euJQma9Yy,null,103.52.255.203,7/19/2022 11:00,7/19/2022 11:17,,,,,1,0,5- Excellent,5- Excellent,4- Good,AT4MDN2GW9V15,Very clear cut solution provided and understanding of sp apis.\Resolution of queries handled effectively.,22.518,88.3832,-1
+R_3eai6WbEkws1T4r,null,115.64.206.31,7/19/2022 14:11,7/19/2022 14:15,,,,,1,0,5- Excellent,5- Excellent,4- Good,AUE3UT8ERDGYF,They are very helpful whenever I missed on the way.,-33.8715,151.2006,-1
+R_SOAmguOi2QdR6Kt,null,62.48.193.170,7/29/2022 15:33,7/29/2022 15:34,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A2OMZZIEIV1E43,,41.3478,-8.4709,-1
+R_29fPCHJTCgX3BR8,null,87.1.204.54,8/5/2022 9:42,8/5/2022 9:43,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A1TNQSXS35GZSO,,43.847,10.5018,-1
+R_2bOSE31yBxCtQAQ,null,79.200.142.245,8/25/2022 11:35,8/25/2022 11:37,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,AETJIZQPGKI55,We got always good and helpfull answers for our questions.,54.79,9.4619,-1
+R_1GDltyk9nGDvuKr,null,182.1.98.83,9/28/2022 8:24,9/28/2022 8:25,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A21R40KB6P99RD,Super helpful and informative! I really enjoy getting feedback from Prakash whenever my developers or me have questions. Appreciate it!,-7.2484,112.7419,-1
+R_2BqAePYGf5MsV7U,null,2.139.118.13,9/30/2022 16:31,9/30/2022 16:32,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,2.96632E+11,all ok,40.4163,-3.6934,-1
+R_AL1iIKNUgBfmqqJ,null,212.252.141.18,9/30/2022 16:30,9/30/2022 16:33,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,2.96632E+11,,38.5173,27.2242,-1
+R_r2x5uJlfGyA3c9X,null,203.213.109.210,10/7/2022 8:39,10/7/2022 8:40,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A36CU8R6LRQ8N4,Prakash is absolutely amazing and easy to deal with. i like him.,-37.8159,144.9669,-1
+R_yX7JQckx73cAAH7,null,80.86.157.208,10/21/2022 13:08,10/21/2022 13:10,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A1AQUMO0BGUQGS,,45.7723,12.6021,-1
+R_tWjqNwVEzLleJoZ,null,95.70.138.4,10/28/2022 12:51,10/28/2022 12:52,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,AO7BZ4Q1W0DTB,,41.0247,28.9252,-1
+R_tF14YquZajqYQOR,null,91.126.240.176,10/28/2022 16:13,10/28/2022 16:14,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A23ROCPBKNSUXP,"Everything perfect, very useful, thanks!",41.6133,0.6269,-1
+R_3NCaqzOYrLnPYXo,null,52.95.75.30,10/28/2022 17:54,10/28/2022 17:57,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A2Q82BE0LV1U0E,Prakash is doing an awesome job with helping PL DSR team by supporting Baselinker integrator. Thank you for all of your help! (Stakeholder's feedback),19.0748,72.8856,-1
+R_1U35oCki732hKIF,null,46.1.103.85,11/1/2022 10:55,11/1/2022 10:55,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,AWBIAJBNKKQYF,,41.1722,36.28,-1
+R_3dLmkpy81mV1TuQ,null,54.240.197.227,11/9/2022 8:51,11/9/2022 8:52,,,,,1,0,5- Excellent,4- Good,5- Excellent,A3IDIF88NVPIDJ,/,47.6348,-122.3451,-1
+R_2dpg3CJugD1OQVm,null,49.207.53.58,11/9/2022 15:13,11/9/2022 15:15,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A18FN31P1MJ6DC,Support from the Amazon SP API team was exceptional. They helped us in all possible way and would like to really appreciated Prakash.\\Thank you once again.,12.9634,77.5855,-1
+R_1rBoW56O7y702Mf,null,54.240.197.234,11/10/2022 17:58,11/10/2022 17:59,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A3QEV1EYJUWUVL,,37.751,-97.822,-1
+R_25RWcDLKNYD9ipm,null,54.239.6.185,11/10/2022 18:09,11/10/2022 18:09,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,ATK8G06TG8KA7,,50.1188,8.6843,-1
+R_3IVGJPlGD9KpXa2,null,89.247.171.106,11/11/2022 18:02,11/11/2022 18:03,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A3O1SPPVFKO786,Prakash was very professional and could help use quick and without any problems.,52.5155,13.4059,-1
+R_2dxY4me3vSpdg5d,null,54.239.6.190,11/15/2022 8:43,11/15/2022 9:00,,,,,1,0,4- Good,4- Good,4- Good,A22XH7NN6CGBD2,Prakash went out of his way to help the Selling Partner and assist in any way possible to troubleshoot the faulty integration.,50.1188,8.6843,-1
+R_32JYcf7BhBgBYUT,null,12.106.191.15,11/15/2022 13:59,11/15/2022 14:00,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A7CL6GT0UVQKS,"We received a follow up email on an open question after our initial conversation, which was very helpful because we had to switch focus to another project in the meanwhile and it helped us stay up to date without any effort from our side.",41.792,-88.166,-1
+R_b9mzcIqOprv2J4l,null,80.217.227.138,11/18/2022 12:41,11/18/2022 12:43,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A3FUWIVN918VYA,"Great service, clear instructions and easy and fast communication",59.3565,17.9651,-1
+R_3NIjnvjOY1sENpG,null,54.239.6.184,11/22/2022 10:19,11/22/2022 10:19,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A392Q4MYEX2UCE,,50.1188,8.6843,-1
+R_2xM0Rc4m4EpUkca,null,151.71.208.161,11/30/2022 11:28,11/30/2022 11:29,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A1AQUMO0BGUQGS,,45.4096,11.8947,-1
+R_oZ7NjupxC24Adih,null,151.71.208.161,12/9/2022 10:22,12/9/2022 10:24,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A1AQUMO0BGUQGS,,45.4096,11.8947,-1
+R_tGwCWoNoZ2bNcd3,null,62.48.193.170,12/13/2022 17:48,12/13/2022 17:50,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A2OMZZIEIV1E43,,41.3478,-8.4709,-1
+R_uwbgItTWkS1xWX7,null,54.239.6.190,12/25/2022 22:33,12/25/2022 22:34,,,,,1,0,4- Good,4- Good,4- Good,A3QR4QDIY50JB4,NA,50.1188,8.6843,-1
+R_puWDAMss4w83841,null,151.71.208.161,12/26/2022 18:35,12/26/2022 18:37,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,AS7II4OKSTFA2,,45.4096,11.8947,-1
+R_3NUrBDZkt3PcZiL,null,151.71.208.161,12/27/2022 8:41,12/27/2022 8:41,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,AS7II4OKSTFA2,,45.4096,11.8947,-1
+R_2qfkLImi0uYYFLC,null,193.192.118.18,3/1/2023 13:48,3/1/2023 13:49,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,AZA5KK07ASIQ0,,41.0551,28.9347,-1
+R_2cqHDdUIPA6NZgu,null,193.192.118.18,3/15/2023 10:02,3/15/2023 10:02,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,AZA5KK07ASIQ0,,41.0551,28.9347,-1
+R_3GrK3FtykWoVspN,null,213.74.103.138,3/22/2023 13:34,3/22/2023 13:35,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A2DCSWKZEQ250K,Prakash has a very good communication,38.371,27.1097,-1
+R_1OZx9bnQSQZaNsz,null,87.139.37.46,3/30/2023 13:14,3/30/2023 13:15,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A3D680WK11ANBB,,52.5196,13.4069,-1
+R_2uDnKWmIY3ufKhv,null,37.209.164.143,4/4/2023 18:55,4/4/2023 18:55,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A1JLJW2WT6ZDLU,GENIUS,41.5571,2.3974,-1
+R_2bGZVeuBdGu4UqC,null,77.138.222.181,4/10/2023 14:26,4/10/2023 14:27,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A2C0PA7SHB9M12,great answers,32.1678,34.8205,-1
+R_21AqwaQVhek7NUd,null,147.161.167.5,4/14/2023 11:16,4/14/2023 11:17,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A2SY6RBUV38U0L,,51.5264,-0.0841,-1
+R_OqWNC7qqAG7fTVv,null,83.56.32.103,4/25/2023 12:42,4/25/2023 12:58,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A1XMLMRL6W4HRS,,38.342,-0.4825,-1
+R_3Nxg5653EUJRAh6,null,83.56.32.103,5/9/2023 13:03,5/9/2023 13:07,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A1XMLMRL6W4HRS,He has been very kind and has been a great help to me,38.342,-0.4825,-1
+R_5mOuXCslCtmib4J,null,84.82.223.145,6/10/2023 8:04,6/10/2023 8:05,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A2EOY1HCIW3FBT,Very knowledgeable and friendly.,51.9306,6.5614,-1
+R_sOsmLVhDOCN590R,null,73.139.217.104,6/15/2023 14:37,6/15/2023 14:44,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A1XAS3CZGZFJQJ,Prakash Jha was my integration Specialist on the Migration to the new SP-API. He was fantastic ! He helped me set up my account parameters correctly. He walked me through testing the values. He verified everything was working properly.  He is patient and made sure all the settings on my account were correct.  He stayed in contact with me during the whole process and made sure I was well taken care of. I give him excellent marks in all categories and would love to work with him again.,26.2975,-80.1816,-1
+R_2P6cjvKoxsFohh3,null,217.246.170.171,7/11/2023 13:47,7/11/2023 13:47,,,,,1,0,5- Excellent,5- Excellent,5- Excellent,A3OFXH0RLDPNKY,,51.6191,14.5892,-1
+R_01ZD3ilsTbGscku,,,,,1.319396973,103.8674011,anonymous,EN,,,5- Excellent,5- Excellent,5- Excellent,A3QOX851X535IH,,,,
+R_0GL7e9ErLEvmmCW,,,,,48.83230591,2.407501221,anonymous,EN,TRUE,,5- Excellent,5- Excellent,5- Excellent,A2NDZEK3LP1JHN,,,,
+R_1Hrt7XexqLdu8Oa,,,,,26.9525,75.7105,anonymous,EN,,,5- Excellent,5- Excellent,5- Excellent,AT4MDN2GW9V15,,,,
+R_24YriClIeS2bMkC,,,,,-7.2484,112.7419,anonymous,EN,,,5- Excellent,5- Excellent,5- Excellent,A21R40KB6P99RD,,,,
+R_2trzPOxBPIASSJU,,,,,24.92070007,67.06570435,anonymous,EN,,,5- Excellent,5- Excellent,5- Excellent,ATNT63KGL0EYY,,,,
+R_3DEj368oQ5MAzXM,,,,,60.67410278,17.14830017,anonymous,EN,,,5- Excellent,5- Excellent,5- Excellent,A1BK3L7C83ST5M,,,,
+R_8iRsMrdDd11zQsm,,,,,41.0551,28.9347,anonymous,EN,,,5- Excellent,5- Excellent,5- Excellent,AZA5KK07ASIQ0,,,,
+R_aeImnfibYBILzDw,,,,,41.0247,28.9252,anonymous,EN,,,5- Excellent,5- Excellent,5- Excellent,AO7BZ4Q1W0DTB,,,,
+R_b3LycOCuUrBAml8,,,,,51.52229309,7.063293457,anonymous,EN,,,5- Excellent,5- Excellent,5- Excellent,7004879425,,,,
+R_bKM7uKcEHFRiJhk,,,,,38.76420593,-7.496994019,anonymous,EN,,,4- Good,5- Excellent,5- Excellent,A2OMZZIEIV1E43,,,,
+R_00ykyfqtvTCnJ6m,,,,,51.4638,0.1434,anonymous,EN,,,5- Excellent,5- Excellent,5- Excellent,A33F2UTXG3GEEI,,,,
+R_0UFxEfUCimNwtx4,,,,,-29.92280579,-51.1743927,anonymous,EN,,,5- Excellent,5- Excellent,5- Excellent,ATIJP5UFQYFJY,,,,
+R_0ximzqj3DNo8qTI,,,,,41.3478,-8.4709,anonymous,EN,TRUE,,5- Excellent,5- Excellent,5- Excellent,A2OMZZIEIV1E43,,,,
+R_299NRu5oPELsqBo,,,,,1.303604126,103.8554077,anonymous,EN,,,4- Good,4- Good,4- Good,A3UR791ARTIR7K,,,,
+R_3P2xYW7OLkSGf78,,,,,41.387,2.1701,anonymous,EN,,,5- Excellent,5- Excellent,5- Excellent,A1JLJW2WT6ZDLU,,,,
+R_3RkCLQHiffSP5iK,,,,,48.60339355,-4.502105713,anonymous,EN,,,5- Excellent,5- Excellent,5- Excellent,A3KG6JVZO29NS6,,,,
+R_3fyeGVt74iPUI7Q,,,,,50.1188,8.6843,anonymous,EN,,,4- Good,4- Good,4- Good,A22XH7NN6CGBD2,,,,
+R_71KwQbGvsF6T9BA,,,,,48.83230591,2.407501221,anonymous,EN,,,5- Excellent,5- Excellent,5- Excellent,A2NDZEK3LP1JHN,,,,
+R_7WGQ1MFPuaLxTnM,,,,,51.15100098,8.289794922,anonymous,EN,TRUE,,4- Good,4- Good,4- Good,AQENRB1XF6OE7,,,,
+R_9oa1SUPSgZ6IWNw,,,,,50.64610291,7.938095093,anonymous,EN,,,5- Excellent,5- Excellent,5- Excellent,A1XR9C6G2X9899,,,,
+R_a4M8UHLz51tBBXw,,,,,50.8105011,7.882293701,anonymous,EN,,,5- Excellent,5- Excellent,5- Excellent,A1XR9C6G2X9899,,,,
+R_da6xjESFEjlCYp8,,,,,48.85820007,2.338699341,anonymous,EN,,,5- Excellent,5- Excellent,5- Excellent,A2G6RCXOK3KT5N,,,,
+R_1XOXuC2BGVJUJYq,,,,,52.33250427,-0.184402466,anonymous,EN,,,5- Excellent,5- Excellent,5- Excellent,AOS29HD33J2DT,,,,
+R_2nUgpgOGUwkmSoe,,,,,41.3478,-8.4709,anonymous,EN,,,5- Excellent,5- Excellent,5- Excellent,A2OMZZIEIV1E43,,,,
+R_37AxONzFhRMRi6i,,,,,43.86169434,12.66929626,anonymous,EN,,,4- Good,5- Excellent,4- Good,A13QJFXXCV7Q4P,,,,
+R_4T6NN7CVGnep2Fo,,,,,45.4096,11.8947,anonymous,EN,TRUE,,5- Excellent,5- Excellent,5- Excellent,A1AQUMO0BGUQGS,,,,
+R_6DsyMRuxbXUhOYu,,,,,44.595,7.8731,anonymous,EN,,,5- Excellent,5- Excellent,5- Excellent,A14A76D9KSR7BK,,,,
+R_6KFYBXEbxYc57hQ,,,,,48.85820007,2.338699341,anonymous,EN,TRUE,,5- Excellent,5- Excellent,5- Excellent,A2NDZEK3LP1JHN,,,,
+R_8odz7tsYKTdFyiW,,,,,45.7480011,4.850006104,anonymous,EN,,,5- Excellent,5- Excellent,5- Excellent,A20N8BNE5ZG8NL,,,,
+R_9MRwnC67hldfJS6,,,,,30.07780457,31.28520203,anonymous,EN,,,5- Excellent,5- Excellent,5- Excellent,A27AD0CFTRIZXR,,,,
+R_9zWYBvurubf6D5k,,,,,41.0551,28.9347,anonymous,EN,TRUE,,5- Excellent,5- Excellent,5- Excellent,AZA5KK07ASIQ0,,,,
+R_afSw8lpAd5Zg4dw,,,,,1.315307617,103.9143066,anonymous,EN,,,5- Excellent,5- Excellent,5- Excellent,AN6NRR75R1JNM,,,,
+R_bpVWdffguuvjnEy,,,,,49.07449341,-121.982605,anonymous,EN,,,5- Excellent,5- Excellent,5- Excellent,AU1U7WJBPCIWV,,,,
+R_e4MZHVySUCFpj82,,,,,50.1188,8.6843,anonymous,EN,,,5- Excellent,5- Excellent,5- Excellent,A392Q4MYEX2UCE,,,,
+R_eJopIg58ydokbyu,,,,,52.34970093,8.235198975,anonymous,EN,TRUE,,5- Excellent,5- Excellent,5- Excellent,A1QY6USG2R34HY,,,,
+R_1MoHfAnUhB66uZU,,,,,53.3381958,-6.259094238,anonymous,EN,,,5- Excellent,5- Excellent,5- Excellent,,,,,
+R_2beBWDOdB1CqnIi,,,,,26.06140137,119.3060913,anonymous,EN,,,5- Excellent,5- Excellent,5- Excellent,A36WZYTHW9099D,,,,
+R_2czPVqmI6oM3dzM,,,,,51.28860474,6.051193237,anonymous,EN,,,4- Good,5- Excellent,4- Good,A2JJ0JALBT9XF9,,,,
+R_2gy7pJ4FZlmf5d4,,,,,41.792,-88.166,anonymous,EN,,,5- Excellent,5- Excellent,5- Excellent,A7CL6GT0UVQKS,,,,
+R_5oNydxHmg8q7pLo,,,,,3.10710144,101.6138916,anonymous,EN,,,5- Excellent,5- Excellent,5- Excellent,,,,,
+R_6QEGVUsbfxo7xGK,,,,,50.1188,8.6843,anonymous,EN,,,4- Good,4- Good,4- Good,A3QR4QDIY50JB4,,,,
+R_6eUlSk3loFhk2qy,,,,,48.60249329,7.784393311,anonymous,EN,,,5- Excellent,5- Excellent,5- Excellent,A39M9056YONGLB,,,,
+R_80Uwinkov5msVjE,,,,,22.518,88.3832,anonymous,EN,,,5- Excellent,5- Excellent,4- Good,AT4MDN2GW9V15,,,,
+R_8wVAbhwzSHMk6BU,,,,,37.751,-97.822,anonymous,EN,,,5- Excellent,5- Excellent,5- Excellent,A3QEV1EYJUWUVL,,,,
+R_b4ntkeGv4oqEicS,,,,,53.22290039,7.745101929,anonymous,EN,,,5- Excellent,5- Excellent,5- Excellent,A1QY6USG2R34HY,,,,
+R_bCue2P179BIkHCC,,,,,-33.8715,151.2006,anonymous,EN,,,5- Excellent,5- Excellent,4- Good,AUE3UT8ERDGYF,,,,
+R_cCtO6n1nFZgBJn8,,,,,45.7723,12.6021,anonymous,EN,,,5- Excellent,5- Excellent,5- Excellent,A1AQUMO0BGUQGS,,,,
+R_0JNW69KVeeTxdPg,,,,,51.15100098,8.289794922,anonymous,EN,,,4- Good,4- Good,4- Good,AQENRB1XF6OE7,,,,
+R_0kBW55vFJpGa1X8,,,,,51.48660278,-1.757003784,anonymous,EN,,,5- Excellent,5- Excellent,5- Excellent,A33PK6N9A10W5K,,,,
+R_1X1q8rcRSaLNRpY,,,,,-37.8159,144.9669,anonymous,EN,,,5- Excellent,5- Excellent,5- Excellent,A36CU8R6LRQ8N4,,,,
+R_38GaJmvv5vYYX6C,,,,,48.85820007,2.338699341,anonymous,EN,TRUE,,5- Excellent,5- Excellent,5- Excellent,A2NDZEK3LP1JHN,,,,
+R_3mwnxrPKRLMHLiC,,,,,52.5155,13.4059,anonymous,EN,,,5- Excellent,5- Excellent,5- Excellent,A3O1SPPVFKO786,,,,
+R_4ZrOnmMZQ82dfAq,,,,,-29.7408,-51.1308,anonymous,EN,,,5- Excellent,5- Excellent,5- Excellent,ATIJP5UFQYFJY,,,,
+R_6Xtuygl45zAO4vA,,,,,48.87399292,2.497802734,anonymous,EN,,,5- Excellent,5- Excellent,5- Excellent,A3KG6JVZO29NS6,,,,
+R_a9RApUWOQGj3zEO,,,,,30.07780457,31.28520203,anonymous,EN,TRUE,,4- Good,4- Good,4- Good,29073419412,,,,
+R_ahMNSrLYNozkqW2,,,,,12.9634,77.5855,anonymous,EN,,,5- Excellent,5- Excellent,5- Excellent,A18FN31P1MJ6DC,,,,
+R_bwrNcwPVjVgHEk6,,,,,51.10679626,6.952896118,anonymous,EN,,,4- Good,5- Excellent,4- Good,A15N4UXNO07455,,,,
+R_d0ww0J3oxjIEOto,,,,,48.85820007,2.338699341,anonymous,EN,,,5- Excellent,5- Excellent,5- Excellent,A2CVTS7GLCXTF7,,,,
+R_ea4q1PeZEMQhMq2,,,,,43.86169434,12.66929626,anonymous,EN,,,5- Excellent,5- Excellent,5- Excellent,A13QJFXXCV7Q4P,,,,
+R_2fX5mOfuLeiVBGK,,,,,48.85820007,2.338699341,anonymous,EN,,,5- Excellent,5- Excellent,5- Excellent,A2G6RCXOK3KT5N,,,,
+R_39JKSAVvDdyvU6G,,,,,41.6133,0.6269,anonymous,EN,,,5- Excellent,5- Excellent,5- Excellent,A23ROCPBKNSUXP,,,,
+R_3IDr1yA70qwJ0CW,,,,,45.4096,11.8947,anonymous,EN,,,5- Excellent,5- Excellent,5- Excellent,A1AQUMO0BGUQGS,,,,
+R_4SL77K5NJuhgDxs,,,,,40.4163,-3.6934,anonymous,EN,,,5- Excellent,5- Excellent,5- Excellent,2.96632E+11,,,,
+R_5cg3ds6wDe4JQ6G,,,,,52.5196,13.4069,anonymous,EN,,,5- Excellent,5- Excellent,5- Excellent,A3D680WK11ANBB,,,,
+R_5p8jKqHzpYI6itE,,,,,41.39489746,2.175598145,anonymous,EN,,,5- Excellent,5- Excellent,5- Excellent,A3VPHLYHPCJKES,,,,
+R_8iBbwVkjZvtarD8,,,,,30.07780457,31.28520203,anonymous,EN,,,4- Good,4- Good,4- Good,,,,,
+R_8wxeks5ezOrSL8q,,,,,41.5571,2.3974,anonymous,EN,,,5- Excellent,5- Excellent,5- Excellent,A1JLJW2WT6ZDLU,,,,
+R_9Est1RI6Vz7l8XQ,,,,,38.5173,27.2242,anonymous,EN,,,5- Excellent,5- Excellent,5- Excellent,2.96632E+11,,,,
+R_bjWk2qCwnUfnG6O,,,,,3.099502563,101.6054077,anonymous,EN,,,4- Good,5- Excellent,4- Good,A1I8X3GIQ4LKR5,,,,
+R_cuc90HZkAE4YoHs,,,,,48.85820007,2.338699341,anonymous,EN,,,4- Good,5- Excellent,5- Excellent,A2G6RCXOK3KT5N,,,,
+R_e57kh4aSI1upJj0,,,,,45.4096,11.8947,anonymous,EN,TRUE,,5- Excellent,5- Excellent,5- Excellent,AS7II4OKSTFA2,,,,
+R_eP9WydS6X8izCN8,,,,,51.88119507,0.554504395,anonymous,EN,,,5- Excellent,5- Excellent,5- Excellent,A1IU9K040JJ2XQ,,,,
+R_eQi64gkGbWPAWZ8,,,,,30.69799805,76.66699219,anonymous,EN,,,5- Excellent,5- Excellent,5- Excellent,A143JAV8WHUBX,,,,
+R_0VDgJzICRwieDEa,,,,,54.04789734,-2.797698975,anonymous,EN,,,5- Excellent,5- Excellent,5- Excellent,A2FVU10FK3J9CO,,,,
+R_2uGJIMjkEr9rN8W,,,,,53.55439758,9.996002197,anonymous,EN,,,3 -Fair,4- Good,3 -Fair,AQENRB1XF6OE7,,,,
+R_3h2H0qM9GGbmIbI,,,,,42.49630737,27.46459961,anonymous,EN,,,5- Excellent,5- Excellent,5- Excellent,A1HORN5O9WAMY3,,,,
+R_3h2fRToYzDHnPDM,,,,,30.07780457,31.28520203,anonymous,EN,,,5- Excellent,5- Excellent,5- Excellent,29073419412,,,,
+R_783gl7G8EXhZOrI,,,,,43.6788,10.5641,anonymous,EN,,,5- Excellent,5- Excellent,5- Excellent,A1TNQSXS35GZSO,,,,
+R_865fXxQIsP5EQnQ,,,,,38.371,27.1097,anonymous,EN,,,5- Excellent,5- Excellent,5- Excellent,A2DCSWKZEQ250K,,,,
+R_agDjnaf5Jwg7I0e,,,,,41.4656,2.0794,anonymous,EN,,,5- Excellent,5- Excellent,5- Excellent,A36R4UMUIG4ZJ6,,,,
+R_b9s2WsNDnx49O5M,,,,,60.67410278,17.14830017,anonymous,EN,,,5- Excellent,5- Excellent,5- Excellent,A1BK3L7C83ST5M,,,,
+R_bdA6lbrJETsWTk2,,,,,48.83230591,2.407501221,anonymous,EN,,,5- Excellent,5- Excellent,5- Excellent,A2NDZEK3LP1JHN,,,,
+R_cIILlQ14L3OeKiy,,,,,41.50230408,2.397506714,anonymous,EN,,,5- Excellent,5- Excellent,5- Excellent,A3S363HDUSCR5X,,,,
+R_cvAXDdXIPV4dlem,,,,,48.19360352,16.37260437,anonymous,EN,,,5- Excellent,5- Excellent,5- Excellent,A2J67ECZ9K9JG4,,,,
+R_eA8X5Cc8U2EKd9k,,,,,36.72610474,-4.425994873,anonymous,EN,,,5- Excellent,5- Excellent,5- Excellent,A2RAQ8TNRMPZIQ,,,,
+R_egSwlKcZ2XYHDro,,,,,41.1722,36.28,anonymous,EN,,,5- Excellent,5- Excellent,5- Excellent,AWBIAJBNKKQYF,,,,
+R_0wzlqtDNpX5XKjs,,,,,48.83230591,2.407501221,anonymous,EN,,,5- Excellent,5- Excellent,5- Excellent,A2NDZEK3LP1JHN,,,,
+R_2ukXMWz8tqBcdWm,,,,,43.847,10.5018,anonymous,EN,TRUE,,5- Excellent,5- Excellent,5- Excellent,A1TNQSXS35GZSO,,,,
+R_3xSeBNHhvRJ9CiG,,,,,59.3565,17.9651,anonymous,EN,,,5- Excellent,5- Excellent,5- Excellent,A3FUWIVN918VYA,,,,
+R_4SARRJFy6NKle62,,,,,32.1678,34.8205,anonymous,EN,,,5- Excellent,5- Excellent,5- Excellent,A2C0PA7SHB9M12,,,,
+R_5w0o61LHPupYXOe,,,,,45.4096,11.8947,anonymous,EN,TRUE,,5- Excellent,5- Excellent,5- Excellent,AS7II4OKSTFA2,,,,
+R_6l3GCuhoFCBHMkS,,,,,50.1188,8.6843,anonymous,EN,,,5- Excellent,5- Excellent,5- Excellent,ATK8G06TG8KA7,,,,
+R_6tmT5r7HJHm2HwG,,,,,19.0748,72.8856,anonymous,EN,TRUE,,5- Excellent,5- Excellent,5- Excellent,A2Q82BE0LV1U0E,,,,
+R_8q4VEyBSuFUOHOK,,,,,51.5264,-0.0841,anonymous,EN,,,5- Excellent,5- Excellent,5- Excellent,A2SY6RBUV38U0L,,,,
+R_9nvi2gD7zHxrbgy,,,,,47.6348,-122.3451,anonymous,EN,,,5- Excellent,4- Good,5- Excellent,A3IDIF88NVPIDJ,,,,
+R_b4oTXsfLjxgTSt0,,,,,40.41720581,-3.684005737,anonymous,EN,TRUE,,5- Excellent,5- Excellent,5- Excellent,A1JTB2R3QULPAM,,,,
+R_bNksbDlarcYVZFI,,,,,54.79,9.4619,anonymous,EN,,,5- Excellent,5- Excellent,5- Excellent,AETJIZQPGKI55,,,,
+R_cCNuAb2m9KfCJKK,,,,,45.90629578,6.129302979,anonymous,EN,,,5- Excellent,4- Good,4- Good,AGXU2MEF6J8N4,,,,
+R_cUZigl3rZ5VB5Ma,,,,,47.2144928,-1.551193237,anonymous,EN,,,4- Good,5- Excellent,5- Excellent,A3KG6JVZO29NS6,,,,
+R_ehyGml1QZozBCGW,,,,,40.41630554,-3.693405151,anonymous,EN,,,5- Excellent,5- Excellent,5- Excellent,A33YJAHSGJJ2EL,,,,
+R_2rcxw67ypAaYmTs,,,,,51.6191,14.5892,anonymous,EN,,,5- Excellent,5- Excellent,5- Excellent,A3OFXH0RLDPNKY,,,,
+R_a3icIzJJ5ZLIUE6,,,,,51.504,-0.3609,anonymous,EN,,,5- Excellent,5- Excellent,5- Excellent,AGM3HFWAQBG4M,,,,
+R_djrSBqxVhqbZ7EO,,,,,51.9306,6.5614,anonymous,EN,,,5- Excellent,5- Excellent,5- Excellent,A2EOY1HCIW3FBT,,,,
+R_eLI2YD9YBW57trM,,,,,38.342,-0.4825,anonymous,EN,TRUE,,5- Excellent,5- Excellent,5- Excellent,A1XMLMRL6W4HRS,,,,
+R_9AMi7msbDOaSLDE,,,,,38.342,-0.4825,anonymous,EN,,,5- Excellent,5- Excellent,5- Excellent,A1XMLMRL6W4HRS,,,,
+R_ctHhrhEeMUvanlQ,,,,,42.6042,-5.5858,anonymous,EN,,,5- Excellent,4- Good,5- Excellent,A250F0J5FZ9ZX8,,,,
+R_ey8qxwknGgKwmRU,,,,,51.2993,9.491,anonymous,EN,,,5- Excellent,5- Excellent,5- Excellent,A3HR8KXQ3J1EJ0,,,,
+R_7Vhesb1YCFWISwe,,,,,26.2975,-80.1816,anonymous,EN,,,5- Excellent,5- Excellent,5- Excellent,A1XAS3CZGZFJQJ,,,,
+R_9Yz3K2n6nhSPFhs,,,,,27.9455,-82.4598,anonymous,EN,,,5- Excellent,5- Excellent,5- Excellent,A3R8MWG4DZWBHD,,,,
+R_cCr4mabxW1fsf0q,,,,,55.3466,-1.6135,anonymous,EN,,,5- Excellent,5- Excellent,5- Excellent,A2PZYYI9NI98ZX,,,,
+R_XU0a3SeFobNp68h,,,,,38.4275,-0.3934,anonymous,EN,,,5- Excellent,5- Excellent,5- Excellent,ANF52BGBNC3XC,,,,
+R_aYwIFFJXKP9VjIB,,,,,38.2475,21.7311,anonymous,EN,,,5- Excellent,5- Excellent,5- Excellent,A35FBMR8GPOV36,,,,
+R_278MykRA6BrAzE3,,,,,51.4623,-2.5502,anonymous,EN,,,5- Excellent,5- Excellent,5- Excellent,A1A1BC8HFH1MOE,,,,
+R_1MoHfAnUhB66uZU,,,,,53.3381958,-6.259094238,anonymous,EN,,,5- Excellent,5- Excellent,5- Excellent,,,,,
+R_5oNydxHmg8q7pLo,,,,,3.10710144,101.6138916,anonymous,EN,,,5- Excellent,5- Excellent,5- Excellent,,,,,
+R_8iBbwVkjZvtarD8,,,,,30.07780457,31.28520203,anonymous,EN,,,4- Good,4- Good,4- Good,,,,,
